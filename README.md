@@ -25,4 +25,4 @@ You can contact me on Discord. My tag is Stealth#3125
 ## 📈 Github Stats 📉
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stealthr&theme=dark" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stealthr)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Stealthrtheme=dark" />
