@@ -7,6 +7,7 @@ Hiya! I'm a Full Stack Developer, creating open sourced programs (occasionally).
   -------------------
 
 <div align="center">
+  
 ## 📞 Contact Me! 
   
 You can contact me on Discord. My tag is Stealth#3125
